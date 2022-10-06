@@ -21,7 +21,7 @@ namespace ClassLibrary
             var stop = -1;//Stopping Condition
             do
             {
-                //Entry of Values
+                //Entry of Value
                 Console.Write("Input Integer: ");
                 int point = int.Parse(Console.ReadLine());
                 if (point == stop)

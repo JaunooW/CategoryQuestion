@@ -10,6 +10,7 @@ namespace CategoryQuestion
 {
     internal class Program
     {
+        //Main Class
         public static void Main(string[] args)
         {
             var category = new Class1();
