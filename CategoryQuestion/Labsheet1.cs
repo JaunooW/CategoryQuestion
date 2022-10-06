@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace CategoryQuestion
 {
-    internal class Program
+    internal class Labsheet1
     {
         //Main Class
         public static void Main(string[] args)
         {
-            var category = new Class1();
+            var category = new CategoryClass();
         }
     }
 }

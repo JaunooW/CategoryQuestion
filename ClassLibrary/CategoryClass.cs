@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-    public class Class1
+    public class CategoryClass
     {
-        public Class1()
+        public CategoryClass()
         {
             //Displays Small Menu
             Display();
