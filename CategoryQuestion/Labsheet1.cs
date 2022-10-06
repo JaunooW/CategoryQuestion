@@ -10,7 +10,6 @@ namespace CategoryQuestion
 {
     internal class Labsheet1
     {
-        //Main Class
         public static void Main(string[] args)
         {
             var category = new CategoryClass();
