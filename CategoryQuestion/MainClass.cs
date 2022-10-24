@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CategoryQuestion
 {
-    internal class Labsheet1
+    internal class MainClass
     {
         public static void Main(string[] args)
         {
